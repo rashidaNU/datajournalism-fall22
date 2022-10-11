@@ -1,1 +1,11 @@
 # Assignment 2
+## Summary
+Overall, several publications have reported on the teacher shortage across the U.S. Education Week published a piece that explained just how bad it is and emphasized the fact that there is no federal database that tracks the shortage.  Additionally, a Times article explored how the shortage hurts low-income students the most in some places. A comparison can only be done state by state.  Several stories have also been written about the ongoing shortage of teachers of color and special education teachers.  Districts are trying to recruit both types of teachers.  
+
+The first dataset we’ve listed does a state by state breakdown of vacancies but it is limited because several states cannot or do not report data outwardly.  Therefore, reports have not explored the impacted states and their communities. It is unclear why the west coast and other states like NY with large populations have not/cannot report data on vacancies. While reports have explored what some states are doing to cope with the shortage (like Florida electing veterans to become teachers), little is out there about how well or poorly these solutions work to fix the issue
+
+## High-quality datasets
+* U of I dataset - This set is from an accredited academic institution, however, 13 states do not have data to report which therefore limits the conclusions to be made about national vacancies.  
+* Census Bureau Employment Dataset - This dataset we selected doesn’t break down the data state-by-state, but derives from the Census, which can be trusted as a government agency.  
+* Data tools - This set is provided by the Department of Education, an official government agency. While it does not list the number of vacancies, it does provide data around 
+* BLS Unemployment rates by profession and sex
