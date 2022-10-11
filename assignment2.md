@@ -1,4 +1,5 @@
 # Assignment 2
+## [Imaginary Data Exercise](https://docs.google.com/spreadsheets/d/1GuA3RZLF2C6F5xFwQCmGsjATd-qKSsDjN8oBSZ4drfs/edit#gid=0)
 ## Summary
 Overall, several publications have reported on the teacher shortage across the U.S. Education Week published [a piece that explained just how bad it is](https://www.edweek.org/leadership/how-bad-is-the-teacher-shortage-what-two-new-studies-say/2022/09#:~:text=With%20all%20this%20data%2C%20the,subject%20area%20they're%20teaching.) and emphasized the fact that there is no federal database that tracks the shortage.  Additionally, a [Times article explored how the shortage hurts low-income students the most in some places](https://time.com/6220538/teacher-shortage-unequal-schools/). A comparison can only be done state by state.  Several stories have also been written about the [ongoing shortage of teachers of color](https://edpolicy.stanford.edu/library/blog1373) and [special education teachers](https://www.bu.edu/articles/2022/special-education-teacher-shortage/).  Districts are trying to recruit both types of teachers.  
 
